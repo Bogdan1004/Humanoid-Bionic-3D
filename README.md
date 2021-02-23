@@ -1,2 +1,2 @@
-# Humanoid-Bionic-3D
+# Humanoid-Bionic-3D-Robot
 Echo is a 100% 3D printed humanoid robot. He wants to learn about the interpersonal relationship, and for this he uses artificial intelligence to recognize the people he talks to. At the moment ECHO has a height of 2m and a weight of 20kg. Echo's ultimate goal is to become a "man" and help other people. Once this goal is reached, he will probably have the tendency to create other robotic friends, it is not known where this artificial intelligence leads.
